@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "test": "umi test"
+  },
+  "dependencies": {
+    "antd": "^3.12.1",
+    "dva": "^2.4.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "redbox-react": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/mockjs": "^1.0.2",
+    "mockjs": "^1.0.1-beta3",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-react": "^3.6.0",
+    "umi": "^2.3.2",
+    "umi-plugin-react": "^1.3.3"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+# http://editorconfig.org
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 4
+end_of_line = lf # mac linux/unix 都用lf。 window 设置 cr 在 *nix 有问题
+trim_trailing_whitespace = true
+insert_final_newline = true
+max_line_length = 120
+
+[*.md]
+trim_trailing_whitespace = false
+
+[Makefile]
+indent_style = tab
