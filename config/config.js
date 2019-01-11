@@ -20,10 +20,10 @@ export default {
     ]
     // ,
     // proxy: {
-    //     "/api": {
+    //     "/remote/api": {
     //         "target": "http://localhost:8000/",
     //         "changeOrigin": true,
-    //         "pathRewrite": { "^/api": "" }
+    //         "pathRewrite": { "^/remote": "" }
     //     }
     // }
 }

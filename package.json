@@ -13,6 +13,7 @@
     "redbox-react": "^1.6.0"
   },
   "devDependencies": {
+    "@types/jest": "^23.3.12",
     "@types/mockjs": "^1.0.2",
     "mockjs": "^1.0.1-beta3",
     "tslint-config-prettier": "^1.17.0",
